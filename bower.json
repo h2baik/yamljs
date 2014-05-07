@@ -1,0 +1,6 @@
+{
+  "name": "yamljs",
+  "version": 0.1.5",
+  "main": "./src/angular-i18n-service.js",
+  "dependencies": {}
+}
